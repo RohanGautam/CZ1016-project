@@ -53,5 +53,3 @@ train
 
 #api key
 apikey.json
-
-digit_svm.joblib
