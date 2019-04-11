@@ -1,4 +1,5 @@
-aeroplane
-bicycle
-bird
-boat
+name
+text
+cost
+attack
+health

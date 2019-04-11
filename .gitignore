@@ -44,3 +44,14 @@ ckpt/*
 
 #pytest cache
 .cache/
+
+#ipynb checkpoints
+.ipynb_checkpoints
+
+# data
+train
+
+#api key
+apikey.json
+
+digit_svm.joblib
