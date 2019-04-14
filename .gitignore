@@ -49,7 +49,7 @@ ckpt/*
 .ipynb_checkpoints
 
 # data
-train
+# train
 
 #api key
 apikey.json
