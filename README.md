@@ -1,4 +1,5 @@
-
+## Note
+`finalComponentMerger_colab.ipynb` can be run on google colab. Open it and follow the detailed instructions! This is useful as I culdn't find something like this while working on the project. Pull requests welcome.
 
 ## Dependencies
 
